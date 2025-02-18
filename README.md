@@ -1,8 +1,8 @@
-# Valentine Surprise
+# sebuah pesan untuk tuanputri
 
-## 💌 About the Project
+## 💌 About u
 
-A simple and charming Valentine's Day animation featuring an interactive envelope with a hidden love message and a beautiful floral scene.
+haii aisyah manusia yang paling cantik dibumi inii xixixi, maafin aku yaa atas perbuatannya aku malam hari ini karena udah buat kamu badmod, dan ngebuat kamu buang' waktu sehingga kamu ga dapat dongeng untuk malam hari ini, aku terlalu oversharing sama kamu juga lain kalii aku ngga akan seperti itu lagi, terkecuali kalau ditanya aku janjii, udahh yaa cantikk jangan marahan lagii sayangg, maaf yaa sekali lagii  untuk malam hari ini❣️
 
 ## ✨ Features
 - Animated envelope that opens and closes
@@ -24,7 +24,7 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
    git clone https://github.com/macedoflp/valentine.git
    ```
 2. Open `index.html` in your browser.
-3. Click the **Open** button to reveal the message!
+3. Click the **buka** button to reveal the message!
 
 
 ## 🔧 Technologies Used
